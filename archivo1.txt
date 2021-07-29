@@ -7,3 +7,5 @@ Tercer cambio desde local
 Cuarto cambio desde GitHub
 
 Cambio cinco desde GitHub
+
+Cambio seis desde local
