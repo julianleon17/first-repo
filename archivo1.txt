@@ -12,4 +12,5 @@ Cambio seis desde local
 
 Cambio siete desde local
 
-Cambio 8 desde local hecho por Julian
+Cambio 8 desde local hecho por Julian Resuelto!
+Cambio 8 desde GitHub hecho por Daniel Resuelto!
