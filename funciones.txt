@@ -1,1 +1,3 @@
 Función de búsqueda por nombre y apellido
+
+Función de busqueda por asistencia a clase
